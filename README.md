@@ -1,3 +1,5 @@
 # British_Airway_Report
 
-<iframe src="https://public.tableau.com/views/YourVizName" width="800" height="600"></iframe>
+My Tableau Visualization: https://public.tableau.com/app/profile/dhruv.patel5669/viz/BritishAirwaysReport_17318265144760/Dashboard1
+
+Click on the above Link to interact with it:)
